@@ -5,19 +5,30 @@
 
 - 🎂 I'm 30 years old
 - 🌎 I'm from Buenos Aires, Argentina
-- ❤️ I love ![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat)
-- 💻 I'm collaborating in a No Country repository (s12-12-n-java-angular) as a front-end developer
+- ❤️ I love Angular
+- 💻 I'm collaborating in this [No Country repository](https://github.com/No-Country/s12-12-n-java-angular) as a front-end developer
 
-## My Skills
+## Tools and Technologies
 
-![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=red&logo=Angular&logoColor=white&label=)
-![Typescript](https://img.shields.io/static/v1?style=for-the-badge&message=Typescript&color=008CDD&logo=Typescript&logoColor=white&label=)
-![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7A33FF&logo=Bootstrap&logoColor=white&label=)
-![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=orange&logo=Firebase&logoColor=FFFFFF&label=)
-![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=red&logo=Git&logoColor=FFFFFF&label=)
+![Angular Badge](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=fff&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-008CDD?logo=typescript&logoColor=fff&style=flat)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7A33FF?logo=typescript&logoColor=fff&style=flat)
+![Firebase Badge](https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=fff&style=flat)
+![Vercel Badge](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff&style=flat)
+![Git Badge](https://img.shields.io/badge/Git-red?logo=git&logoColor=fff&style=flat)
 
-  
+
+ ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+
+<a href="https://github.com/geraldineac">
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=geraldineac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=geraldineac&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p> 
+
 <!--
 **geraldineac/geraldineac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
