@@ -1,8 +1,11 @@
-### Hi there 👋 I'm Geraldine Acevedo
+<div align="center"> 
+  <h2>Hi there 👋 I'm Geraldine Acevedo</h2>
+</div>
+
 
 - 🎂 I'm 30 years old
 - 🌎 I'm from Buenos Aires, Argentina
-- ❤️ I love Angular 
+- ❤️ I love ![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat)
 - 💻 I'm collaborating in a No Country repository (s12-12-n-java-angular) as a front-end developer
   
 <!--
