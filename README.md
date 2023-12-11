@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Geraldine Acevedo
 
+- 🎂 I'm 30 years old
+- 🌎 I'm from Buenos Aires, Argentina
+- ❤️ I love Angular 
+- 💻 I'm collaborating in a No Country repository (s12-12-n-java-angular) as a front-end developer
+  
 <!--
 **geraldineac/geraldineac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
