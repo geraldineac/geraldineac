@@ -12,7 +12,10 @@
 
 ![Angular Badge](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=fff&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-008CDD?logo=typescript&logoColor=fff&style=flat)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7A33FF?logo=typescript&logoColor=fff&style=flat)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7A33FF?logo=bootstrap&logoColor=fff&style=flat)
+![Material Badge](https://img.shields.io/badge/Material%20Design-000000?logo=materialdesign&logoColor=fff&style=flat)
+![SASS Badge](https://img.shields.io/badge/SASS-C470A0?logo=sass&logoColor=fff&style=flat)
+![TailwindCSS Badge](https://img.shields.io/badge/TailwindCSS-319795?logo=tailwindcss&logoColor=fff&style=flat)
 ![Firebase Badge](https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=fff&style=flat)
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff&style=flat)
 ![Git Badge](https://img.shields.io/badge/Git-red?logo=git&logoColor=fff&style=flat)
