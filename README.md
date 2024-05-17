@@ -6,7 +6,7 @@
 - 🎂 I'm 30 years old
 - 🌎 I'm from Buenos Aires, Argentina
 - ❤️ I love Angular
-- 💻 I'm collaborating in this [No Country repository](https://github.com/No-Country/s13-13-n-java) as a front-end developer
+- 💻 I'm collaborating in this [No Country repository](https://github.com/No-Country/s15-10-m-java-angular) as a front-end developer
 
 ## Tools and Technologies
 
