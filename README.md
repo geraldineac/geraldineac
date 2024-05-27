@@ -1,6 +1,9 @@
 <div align="center"> 
   <h2>Hi there 👋 I'm Geraldine Acevedo</h2>
 </div>
+<div align="center">
+<img src="https://i.ibb.co/YcbH9Hn/github-header-image.png" alt="github-header-image" border="0">
+</div>
 
 
 - 🎂 I'm 30 years old
