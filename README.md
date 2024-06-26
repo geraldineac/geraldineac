@@ -24,7 +24,15 @@
 ![Git Badge](https://img.shields.io/badge/Git-red?logo=git&logoColor=fff&style=flat)
 
 
- ### ⚙️ &nbsp;GitHub Analytics
+ ## ⚙️ &nbsp;GitHub Analytics
+
+ <p align="center">
+
+   
+   ![Profile views counter](https://komarev.com/ghpvc/?username=geraldineac&&style=flat-square)
+
+   
+ </p>
 
 <p align="center">
 
