@@ -10,6 +10,20 @@
 - 🌎 I'm from Buenos Aires, Argentina
 - ❤️ I love Angular
 - 💻 I'm collaborating in this [No Country repository](https://github.com/No-Country/s15-10-m-java-angular) as a front-end developer
+- #️⃣ Social media profiles:
+
+
+<div align="center">
+  
+  <a href="https://github.com/geraldineac" target="_blank">
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  
+  <a href="https://linkedin.com/in/geraldine-acevedo-link" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+
+</div>
 
 ## Tools and Technologies
 
@@ -29,7 +43,7 @@
  <p align="center">
 
    
-   ![Profile views counter](https://komarev.com/ghpvc/?username=geraldineac&&style=flat-square)
+   ![Profile views counter](https://komarev.com/ghpvc/?username=geraldineac&&style=flat)
 
    
  </p>
